@@ -1,0 +1,11 @@
+ 
+	Order Details: Mister_Cheese
+	------------------------
+ 
+	Item Ordered: 	Item 2: Naga Chicken Burger -> 159 TAKA
+	Quantity Ordered: 3
+	Total = 477
+	------------------------
+	Order Location: Barishal, Rupatoli
+	Order phone no: 012345678912
+	Order Date: Mon 05 Sep 2022 06:06:55 AM EDT

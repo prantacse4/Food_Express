@@ -1,0 +1,14 @@
+	Zafran
+	====================
+	
+	Item 1: Pizza -> 500 TAKA
+	
+	Item 2: Zafran Special Set Menu -> 599 TAKA
+	
+	Item 3: Chicken Burger -> 400 TAKA
+	
+	Item 4: Cold Coffee -> 80 TAKA
+	
+	----------------
+	Contact Details : zafran@gmail.com
+	Address : Barishal

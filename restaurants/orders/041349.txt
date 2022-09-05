@@ -1,0 +1,11 @@
+ 
+	Order Details: Zafran
+	------------------------
+ 
+	Item Ordered: 	Item 2: Zafran Special Set Menu -> 599 TAKA
+	Quantity Ordered: 4
+	Total = 2396
+	------------------------
+	Order Location: Barishal, Choumatha
+	Order phone no: 0172763746
+	Order Date: Sun 04 Sep 2022 01:49:57 PM EDT

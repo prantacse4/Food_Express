@@ -1,0 +1,14 @@
+	Mister Cheese
+	====================
+	
+	Item 1: Masala Rice Bowl -> 101 TAKA
+	
+	Item 2: Naga Chicken Burger -> 159 TAKA
+	
+	Item 3: Chicken Meat Balls -> 150 TAKA
+	
+	Item 4: Set Menu -> 200 TAKA
+	
+	----------------
+	Contact Details : mscheese@gmail.com
+	Address : Barishal

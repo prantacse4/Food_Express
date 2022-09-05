@@ -1,0 +1,14 @@
+	Tawa
+	====================
+	
+	Item 1: Chicken Hydrabadi Biriyani -> 400 TAKA
+	
+	Item 2: Mutton Hydrabadi Biriyani -> 500 TAKA
+	
+	Item 3: Pizza -> 600 TAKA
+	
+	Item 4: Burger -> 200 TAKA
+	
+	----------------
+	Contact Details : tawa@gmail.com
+	Address : Barishal
